@@ -7,4 +7,13 @@
         <item name="android:layout_marginTop">16dp</item>
         <item name="android:fontFamily">@font/archivo_black</item>
     </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:layout_marginTop">36dp</item>
+        <item name="android:backgroundTint">#6d101326</item>
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="android:textColor">@color/button_textColor</item>
+    </style>
 </resources>
